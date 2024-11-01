@@ -1,0 +1,22 @@
+/*
+ * WP Group Menu CSS
+ * Copyright 2018 KevonAdonis.com
+ */
+
+.wp-group-menu > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.wp-group-menu li{
+    margin-bottom: 0 !important;
+}
+
+.wp-group-menu li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
